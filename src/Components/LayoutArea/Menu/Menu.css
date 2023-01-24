@@ -1,0 +1,28 @@
+.Menu {
+	display: flex;
+    flex-direction: row;
+    align-items: center;  
+    width: 100%;
+    justify-content: space-between;
+}
+
+.Menu a{
+    text-decoration: none;
+    color: rgb(57, 40, 251) ;
+        margin-left: 10px;
+
+}
+
+.Menu a.active , .orange{
+    display: inline;
+    font-weight: 700;
+    color: orange;
+}
+
+.logo{
+    font-size: 25px;
+
+}
+.logout{
+    cursor: pointer;
+}

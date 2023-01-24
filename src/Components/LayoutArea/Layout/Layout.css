@@ -1,0 +1,13 @@
+.Layout {
+    background-image: url('../../../Images/dslr-2308202__340.jpg');
+    background-size: cover;
+    min-height:  100vh;
+}
+
+.Layout .Header{
+    height: 10%;
+}
+
+.Layout .Main{
+    height: 90%;
+}

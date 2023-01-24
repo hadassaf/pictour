@@ -1,0 +1,18 @@
+.Tours {
+    display: flex;
+    padding: 2px;
+}
+.toursCards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    
+}
+.selector{
+    padding: 1%;
+    font-size: 15px;
+    
+}
+input[type="radio"] {
+    width: 40px;
+}

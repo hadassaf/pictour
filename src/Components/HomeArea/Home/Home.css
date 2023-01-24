@@ -1,0 +1,22 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: right;
+    align-items: flex-start;
+
+}
+
+
+.Home button{
+    background-color: rgb(57, 40, 251) ;
+    color: white;
+    font-family: VarelaRound-Regular, Raleway-Regular;
+    font-size: 20px;
+    padding: 20px;
+    cursor: pointer;
+    border: unset;
+    border-radius: 40px;
+    margin-top: 20px;
+}

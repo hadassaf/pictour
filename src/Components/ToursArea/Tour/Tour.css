@@ -1,0 +1,60 @@
+.Tour {
+    background-color: rgb(255, 255, 255);
+    width: 31%;
+    height: 80%;
+    margin: 1%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 20px 8px black;
+    padding: 20px;
+}
+.Tour img{
+    margin: 5px;
+    margin-bottom: 0px;
+    height: 30%;
+}
+.Tour h2{
+    font-size: 25px;
+    margin: 5px;
+    padding: 8px;
+    color: orange;
+    background-color: rgba(46, 45, 45, 0.239);
+}
+.Tour .signs{
+    margin-left: 5px;
+}
+.Tour .flex{
+    display: flex;
+}
+.Tour button{
+    display: inline;
+    margin:auto;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 40%;
+    color: white;
+    border: unset;
+    background-color: orange;
+    cursor: pointer;
+}
+.Modal1 h2{
+    text-align: center;
+    width: 400px;
+}
+.Modal1 .b{
+    color: orange;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 12px;
+    margin: 4px;
+    background-color: rgb(219, 212, 212);
+    cursor: pointer;
+    border: unset;
+}
+.Modal1 .b:hover{
+    color: black;
+    background-color:orange
+    
+}

@@ -1,0 +1,10 @@
+.About {
+    font-size: 18px;
+	background-color: rgba(28, 26, 23, 0.749);
+    color: orange;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+}
+

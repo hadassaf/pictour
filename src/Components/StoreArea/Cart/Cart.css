@@ -1,0 +1,33 @@
+.Cart{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    margin: auto;
+    align-items: flex-end; 
+}
+.total {
+    background-color: white;
+    text-align: right;
+    margin: 2rem;   
+}
+.CartProduct {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    text-align: right;
+    padding-left: 25rem;
+    border-left: 2px solid orange;
+
+}
+
+.CartProduct .orange{
+    color: orange;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.CartProduct img{
+    width: 5rem;
+    margin-left: 1.5rem;
+}

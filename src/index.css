@@ -1,0 +1,82 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body, html, #root {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: rgb(57, 40, 251) ;
+     margin: 0;
+    font-family:VarelaRound-Regular, Raleway-Regular, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    font-weight: 300;
+}
+
+input, button,textarea{
+    font-family: VarelaRound-Regular, Raleway-Regular;
+
+}
+
+button{
+    margin:auto;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    border: unset;
+    background-color: orange;
+    cursor: pointer;
+}
+  .react-responsive-modal-container {
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+
+@font-face {
+    font-family: "Raleway-Regular";
+    src: local("Raleway-Regular"),
+        url("./fonts/Raleway-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "VarelaRound-Regular";
+    src: local("VarelaRound-Regular"),
+        url("./fonts/VarelaRound-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Bold";
+    src: local("FbReformaNarrow Bold"),
+        url("./fonts/FbReformaNarrow-Bold.otf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Light";
+    src: local("FbReformaNarrow Light"),
+        url("./fonts/FbReformaNarrow-Light.otf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Medium";
+    src: local("FbReformaNarrow Medium"),
+        url("./fonts/FbReformaNarrow-Medium.otf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FbReformaNarrow Regular";
+    src: local("FbReformaNarrow Regular"),
+        url("./fonts/FbReformaNarrow-Regular.otf") format("truetype");
+    font-weight: normal;
+}
