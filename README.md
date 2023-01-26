@@ -11,7 +11,8 @@ React, typeScript and CSS.
 
 
 # Link to Pictour video:
-[Pictour video]([https://www.](https://drive.google.com/file/d/1vvz69w5r1B_FB-49gpfgq62z63HInMVn/view))
+
+[Pictour video](https://drive.google.com/file/d/1vvz69w5r1B_FB-49gpfgq62z63HInMVn/view)
 
 
 # See how the site works:
